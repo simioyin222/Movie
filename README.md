@@ -9,3 +9,9 @@ Describe: Ticket contructor to pass in and receive age and ticket price info for
 Code: Const childTicket = new Ticket("movie", "showtime", "age");
 const ticketPrice = childTicket.calculateTicketPrice();
 Expected Output: $# (any number)
+
+Describe TicketPrice();
+Test: It gives value to ticket price
+Code: 
+
+Describe:  
